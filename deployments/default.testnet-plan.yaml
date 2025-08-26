@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: BusinessCreditNetwork
+            expected-sender: ST2M3GP0MG6WE85SE4NF7CDG1JZRG01GVXG6H317N
+            cost: 70940
+            path: "contracts\\BusinessCreditNetwork.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
