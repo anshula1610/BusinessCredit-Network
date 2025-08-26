@@ -50,16 +50,15 @@ Contract ID: ST2M3GP0MG6WE85SE4NF7CDG1JZRG01GVXG6H317N.BusinessCreditNetwork
 ![alt text](image.png)
 
 ### Mainnet Deployment
-- **Contract Address**
+- **Contract Address**:ST2M3GP0MG6WE85SE4NF7CDG1JZRG01GVXG6H317N.BusinessCreditNetwork
 - **Network**: Stacks Mainnet
-- **Deployment Date**
-- **Deployer Address**
+- **Deployer Address**:ST2M3GP0MG6WE85SE4NF7CDG1JZRG01GVXG6H317N
 
 ### Testnet Deployment
-- **Contract Address**
+- **Contract Address**:ST2M3GP0MG6WE85SE4NF7CDG1JZRG01GVXG6H317N.BusinessCreditNetwork
 - **Network**: Stacks Testnet
-- **Deployment Date**
-- **Deployer Address**
+- **Deployer Address**:ST2M3GP0MG6WE85SE4NF7CDG1JZRG01GVXG6H317N
+
 
 ### Contract Verification
 - **Source Code**: Verified and available on [Stacks Explorer]
