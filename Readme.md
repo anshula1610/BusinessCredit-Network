@@ -50,16 +50,16 @@ Contract ID: ST2M3GP0MG6WE85SE4NF7CDG1JZRG01GVXG6H317N.BusinessCreditNetwork
 ![alt text](image.png)
 
 ### Mainnet Deployment
-- **Contract Address**: `[To be added after mainnet deployment]`
+- **Contract Address**
 - **Network**: Stacks Mainnet
-- **Deployment Date**: `[To be added]`
-- **Deployer Address**: `[To be added]`
+- **Deployment Date**
+- **Deployer Address**
 
 ### Testnet Deployment
-- **Contract Address**: `[To be added after testnet deployment]`
+- **Contract Address**
 - **Network**: Stacks Testnet
-- **Deployment Date**: `[To be added]`
-- **Deployer Address**: `[To be added]`
+- **Deployment Date**
+- **Deployer Address**
 
 ### Contract Verification
 - **Source Code**: Verified and available on [Stacks Explorer]
